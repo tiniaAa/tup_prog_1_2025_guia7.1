@@ -25,7 +25,7 @@ namespace ejercicio_2
             Console.WriteLine("Se producieron {0} budines", cant_bud);
             Console.WriteLine("Se completaron {0} paquetes ",cant_paq);
             Console.WriteLine("Se completaron {0} cajas",cant_caja);
-            Console.WriteLine("Sobro {0} de masa",masa_sobr);
+            Console.WriteLine("Sobro {0}kg de masa",masa_sobr);
 
         }
     }
